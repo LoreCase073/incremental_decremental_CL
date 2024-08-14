@@ -1,0 +1,371 @@
+,label,youtube_id,time_start,time_end,split
+0,eating burger,7LsqOgmEUFQ,15,25,train
+1,eating burger,7MEqpP0NcQc,143,153,train
+2,eating burger,7NqXVIvGrg4,12,22,train
+3,eating burger,7Q2t178w3BA,248,258,train
+4,eating burger,7SqTKNUuE1E,82,92,train
+5,eating burger,7VBA_i_n2Zo,389,399,train
+6,eating burger,7YHFyaxj9tg,198,208,train
+7,eating burger,7_a_ONcCGzU,69,79,train
+8,eating burger,7bJJ-FSLraM,124,134,train
+9,eating burger,7ktI2G1crqs,93,103,train
+10,eating cake,68YgZyPHM3E,91,101,train
+11,eating cake,6AMERQyeg0U,15,25,train
+12,eating cake,6FwHfvxTca0,49,59,train
+13,eating cake,6J4nYVWRESw,21,31,train
+14,eating cake,6N1DokxakWc,36,46,train
+15,eating cake,6S6iJNm3vME,126,136,train
+16,eating cake,6basZzHLXwQ,46,56,train
+17,eating cake,6d_FQTpOi7E,23,33,train
+18,eating cake,6eZjQ_3b4yY,33,43,train
+19,eating cake,6horR3Ol4Rs,1,11,train
+20,eating carrots,AkxFF2XAffQ,22,32,train
+21,eating carrots,BJB1JDupr1c,50,60,train
+22,eating carrots,BKMTiOmUQjs,72,82,train
+23,eating carrots,BNMm_tRXmCk,8,18,train
+24,eating carrots,Bui9C41a4YA,16,26,train
+25,eating carrots,BvHv6ZWEj4g,3,13,train
+26,eating carrots,By1lQRot9eo,35,45,train
+27,eating carrots,C3InQvwZHdE,43,53,train
+28,eating carrots,C82KL2qzjBA,25,35,train
+29,eating carrots,C9mpDeJgb2A,84,94,train
+30,eating chips,9YQo9o9XhSs,44,54,train
+31,eating chips,9eq8Rqmd22k,11,21,train
+32,eating chips,9jlHNrXOS2s,16,26,train
+33,eating chips,9nmfDU4b0bs,41,51,train
+34,eating chips,9pw1fy466v8,91,101,train
+35,eating chips,9ubsieXlyjA,3,13,train
+36,eating chips,A0cQLZTW2m8,0,10,train
+37,eating chips,AL38zuKUx1E,131,141,train
+38,eating chips,AL8K2zKZ-Rs,2,12,train
+39,eating chips,ALDrUvhk6E8,17,27,train
+40,eating doughnuts,6eGhivVkim8,0,10,train
+41,eating doughnuts,6pCZgFK3EGs,0,10,train
+42,eating doughnuts,6sOWbCMMhWk,55,65,train
+43,eating doughnuts,7-ZYJ3Yb3B8,4,14,train
+44,eating doughnuts,782lWsHispw,0,10,train
+45,eating doughnuts,7CQrF0MfTmQ,6,16,train
+46,eating doughnuts,7EZe4kz-iKg,45,55,train
+47,eating doughnuts,7G3-VJXOOkM,0,10,train
+48,eating doughnuts,7JtEHZd_bFA,153,163,train
+49,eating doughnuts,7Z1OmovSTbY,13,23,train
+50,eating hotdog,AriouuowAR4,72,82,train
+51,eating hotdog,AuRCaSkMemw,0,10,train
+52,eating hotdog,Axll_fNQfJ4,86,96,train
+53,eating hotdog,B7Gm_eEAiWM,134,144,train
+54,eating hotdog,BQLr0_VYeXg,22,32,train
+55,eating hotdog,BXb1JVzqhpA,3,13,train
+56,eating hotdog,BXsqpXXi3p4,26,36,train
+57,eating hotdog,BdZuKVU-fso,53,63,train
+58,eating hotdog,Bo759N7_fPA,12,22,train
+59,eating hotdog,BrDuG8tFfgE,64,74,train
+60,eating ice cream,4k6y6bt6t_A,10,20,train
+61,eating ice cream,4lCkONe5nws,10,20,train
+62,eating ice cream,4qY0sJQYohk,8,18,train
+63,eating ice cream,4rB3zevqTUY,45,55,train
+64,eating ice cream,4wLSfxP0VjE,28,38,train
+65,eating ice cream,55ZDkEq19uY,1,11,train
+66,eating ice cream,592KWkvRvDo,153,163,train
+67,eating ice cream,59mJuk8YWZA,0,10,train
+68,eating ice cream,5H_aHbKm6QM,0,10,train
+69,eating ice cream,5K0FbhSHsT0,13,23,train
+70,eating spaghetti,69o1WLEYln8,41,51,train
+71,eating spaghetti,6Bkl8kkJ1hw,3,13,train
+72,eating spaghetti,6EMizMty-lw,22,32,train
+73,eating spaghetti,6Lg4cDK0OBY,6,16,train
+74,eating spaghetti,6PxwP03mvMw,31,41,train
+75,eating spaghetti,6UAlaLFlw7s,53,63,train
+76,eating spaghetti,6Wk0iXwsJsk,39,49,train
+77,eating spaghetti,6XzQ3YlZG0M,7,17,train
+78,eating spaghetti,6d7N6BAoT9M,67,77,train
+79,eating spaghetti,6dWHWzU2Gxo,25,35,train
+80,eating watermelon,6Trpe913o5g,70,80,train
+81,eating watermelon,6Vd7NshJdbM,94,104,train
+82,eating watermelon,6a5fnLbeRfo,50,60,train
+83,eating watermelon,6g1JEIzH_XM,1,11,train
+84,eating watermelon,6hkBCUJB7wg,32,42,train
+85,eating watermelon,6lpPHQoqhC8,7,17,train
+86,eating watermelon,6lvrErBJ7GE,9,19,train
+87,eating watermelon,6qEx-zXou2o,3,13,train
+88,eating watermelon,6tvnQHlruKw,0,10,train
+89,eating watermelon,73wHbORPEYY,17,27,train
+90,sucking lolly,9ffUgtB1g6k,0,10,train
+91,sucking lolly,9hMWs5aA81A,2,12,train
+92,sucking lolly,9lkfL1Fc-bA,0,10,train
+93,sucking lolly,A5I-ORwFSV0,213,223,train
+94,sucking lolly,A8Zbjq9GMbI,6,16,train
+95,sucking lolly,AMKwjy5jE7E,0,10,train
+96,sucking lolly,ATWmvod8JTU,55,65,train
+97,sucking lolly,B4aEmrFGKKI,36,46,train
+98,sucking lolly,BGxeiXWTiBA,0,10,train
+99,sucking lolly,BIwWPqvav-w,4,14,train
+100,tasting beer,9OLLkLGx6fE,94,104,train
+101,tasting beer,9UQ1ZNJwnk4,232,242,train
+102,tasting beer,9UkSLTG4_Jw,77,87,train
+103,tasting beer,9V8WPzRDjSQ,331,341,train
+104,tasting beer,9df5_-_kMs4,73,83,train
+105,tasting beer,9qKl6FY7sFM,74,84,train
+106,tasting beer,A1-rP5A6B0U,96,106,train
+107,tasting beer,A3quE5TJVBs,623,633,train
+108,tasting beer,A6YZj7Twuoo,259,269,train
+109,tasting beer,AHz-tAM_eNE,27,37,train
+110,tasting food,8YpboGPsldA,256,266,train
+111,tasting food,8cWV0IcebPU,108,118,train
+112,tasting food,8dIcaFoP32U,30,40,train
+113,tasting food,8iZCqlz5m7w,24,34,train
+114,tasting food,8ivLSodaR4w,407,417,train
+115,tasting food,8nqulZwskoU,41,51,train
+116,tasting food,8yUEsOPqAQo,452,462,train
+117,tasting food,8yZMMjAN_es,28,38,train
+118,tasting food,9-gd-fopGAc,556,566,train
+119,tasting food,99NH1ZkxcJ0,568,578,train
+120,tasting wine,BOWZmiNJ2_k,97,107,train
+121,tasting wine,BU-bJIySrUw,122,132,train
+122,tasting wine,BZJTJhUVaTQ,295,305,train
+123,tasting wine,BtI95FnjKU8,0,10,train
+124,tasting wine,C-njnjO00-Q,26,36,train
+125,tasting wine,C8oxZZXmCMY,0,10,train
+126,tasting wine,CHFyyVOv1Pc,308,318,train
+127,tasting wine,CVukalzDUO8,17,27,train
+128,tasting wine,Caif6FoWhDw,10,20,train
+129,tasting wine,CmBNrLcmXzo,46,56,train
+130,sipping cup,6dzgP-9F0Mg,0,10,train
+131,sipping cup,6oWPuQZJXyY,0,10,train
+132,sipping cup,6u16z1I5OGg,61,71,train
+133,sipping cup,6yLytZCWotI,5,15,train
+134,sipping cup,6zP75hMtILk,13,23,train
+135,sipping cup,7EYgexFl-j4,0,10,train
+136,sipping cup,7FdEojutV9w,54,64,train
+137,sipping cup,7J2ZtRb34RE,46,56,train
+138,sipping cup,7L_f7bsH1_M,59,69,train
+139,sipping cup,7LzVBqKhA1k,0,10,train
+140,texting,D5GUOM7tBjY,32,42,train
+141,texting,DABLQ81E8fk,43,53,train
+142,texting,DAaw45mhkTM,480,490,train
+143,texting,DXbhzIv0FIY,150,160,train
+144,texting,DeFUPy8VxRI,30,40,train
+145,texting,DiwZQmcvxOs,367,377,train
+146,texting,DmzbK3jmlIA,82,92,train
+147,texting,DzXawpkde6I,626,636,train
+148,texting,E4M94_va5Ak,104,114,train
+149,texting,EC-DYNr_BKA,36,46,train
+150,talking on cell phone,8_VCOceQceQ,1,11,train
+151,talking on cell phone,8aIVdO4JJPM,29,39,train
+152,talking on cell phone,8mmODPQpCa4,27,37,train
+153,talking on cell phone,8ms-TYqWleg,34,44,train
+154,talking on cell phone,98FPDiM22lM,12,22,train
+155,talking on cell phone,9HioPJ-9rLA,88,98,train
+156,talking on cell phone,9Lt-4AHJ8tw,7,17,train
+157,talking on cell phone,9QoYCp5IX0o,46,56,train
+158,talking on cell phone,9SBgTsyHx5U,6,16,train
+159,talking on cell phone,9j9kJrLlA3w,0,10,train
+160,looking at phone,EcziSzSCg5w,0,10,train
+161,looking at phone,El7-xo-ts_0,25,35,train
+162,looking at phone,ElbFPI_earc,133,143,train
+163,looking at phone,EyRCiySEi8E,381,391,train
+164,looking at phone,F76qJ3b2Xzw,0,10,train
+165,looking at phone,FDz-caDay5w,58,68,train
+166,looking at phone,FfXVZQkagzY,40,50,train
+167,looking at phone,GAO2PLDmIQg,4,14,train
+168,looking at phone,GJ0F2flr3FA,13,23,train
+169,looking at phone,GbdsdI1VxKo,81,91,train
+170,smoking,HYqBK8mVPwo,64,74,train
+171,smoking,HmXl6TfG9OY,46,56,train
+172,smoking,HpEJfvciQ0w,25,35,train
+173,smoking,HqAtxZk4Owk,24,34,train
+174,smoking,ID55j2rq1sc,7,17,train
+175,smoking,IMuPSc6TfO0,44,54,train
+176,smoking,IRdxUCUcupE,102,112,train
+177,smoking,IRmNV3hpqX0,1,11,train
+178,smoking,Io8azBL2mZ4,59,69,train
+179,smoking,Iqs7iupvIcY,43,53,train
+180,smoking hookah,9E5LZRvidLQ,3,13,train
+181,smoking hookah,9FcoHH8Lroo,29,39,train
+182,smoking hookah,9Gdysl2SELE,1,11,train
+183,smoking hookah,9IKSQGQqTH4,1,11,train
+184,smoking hookah,9N-F6DNDwNc,30,40,train
+185,smoking hookah,9NsXdEXceyA,13,23,train
+186,smoking hookah,9PmRTWj7JQY,3,13,train
+187,smoking hookah,9aWGL36sZdo,4,14,train
+188,smoking hookah,9cjb8k2w9Pw,8,18,train
+189,smoking hookah,9eKujSt4TEo,3,13,train
+190,smoking pipe,BUeAtLmFYBU,79,89,train
+191,smoking pipe,BYM7uhwJFLk,32,42,train
+192,smoking pipe,Bd3Adp0IWr8,570,580,train
+193,smoking pipe,BpGn4rh_QgA,197,207,train
+194,smoking pipe,C0W51viCkls,425,435,train
+195,smoking pipe,CFLFdgUx4-A,148,158,train
+196,smoking pipe,CKT2zXWGkqo,280,290,train
+197,smoking pipe,CXqpN526TxM,25,35,train
+198,smoking pipe,CdL0SRCRtCw,279,289,train
+199,smoking pipe,CkU6UoKZcMg,490,500,train
+200,sleeping,9Y4fn0Sv1v4,4,14,train
+201,sleeping,9bVQldxKZGY,9,19,train
+202,sleeping,9bf9FwA2-MI,13,23,train
+203,sleeping,9er8ZkFSL7M,53,63,train
+204,sleeping,9uj-EedJcQk,45,55,train
+205,sleeping,A-a6VG7GXvk,26,36,train
+206,sleeping,AFBniSi1-5I,27,37,train
+207,sleeping,AOA7RgO9DGk,0,10,train
+208,sleeping,AXVapvVc6cU,6,16,train
+209,sleeping,Aji8HLO-bG8,56,66,train
+210,yawning,9pPkWYYMCww,4,14,train
+211,yawning,ADa0jTvBJkU,108,118,train
+212,yawning,AGX9cFIkLoQ,0,10,train
+213,yawning,AVPdejIidM4,230,240,train
+214,yawning,A_AHwvhxk-Y,0,10,train
+215,yawning,AaEvhppr5SE,5,15,train
+216,yawning,AoFldioLfZE,14,24,train
+217,yawning,AtvjtkLHGgg,17,27,train
+218,yawning,AxMo_6Y8-3c,5,15,train
+219,yawning,B1VU38VAQ0E,253,263,train
+220,headbanging,7n-u2TkN2lk,1,11,train
+221,headbanging,7ww_Tp_DAmI,3,13,train
+222,headbanging,81nTgY00OCM,44,54,train
+223,headbanging,83N939_JbrA,23,33,train
+224,headbanging,84ZWKCI15-s,70,80,train
+225,headbanging,86jNWMgRfNs,9,19,train
+226,headbanging,8HFWF0f3Rd4,2,12,train
+227,headbanging,8HKe8vFh14c,4,14,train
+228,headbanging,8OFYEpp2q0E,7,17,train
+229,headbanging,8ONZG2qLmLc,0,10,train
+230,headbutting,9KOBP_Y73WA,2,12,train
+231,headbutting,9Q1WQKJC2hU,27,37,train
+232,headbutting,9XWyKXMWzfI,0,10,train
+233,headbutting,9f1OkIZcsKA,4,14,train
+234,headbutting,9nK9IR327UU,0,10,train
+235,headbutting,9xYv6acrQPA,0,10,train
+236,headbutting,A06sWiB9YC0,1,11,train
+237,headbutting,A7vRmKxWe38,9,19,train
+238,headbutting,AC04lFm33r0,0,10,train
+239,headbutting,AHEEPQcWxEM,38,48,train
+240,shaking head,6J_nOTRbOK4,13,23,train
+241,shaking head,6N22GK84Rzc,27,37,train
+242,shaking head,6PR_YDmJZlw,15,25,train
+243,shaking head,6RHnF0zRhlA,30,40,train
+244,shaking head,6VuE7-CZ014,58,68,train
+245,shaking head,6eW9NOm9lGA,0,10,train
+246,shaking head,6mD97hH_fSo,0,10,train
+247,shaking head,6oG87o1OECU,15,25,train
+248,shaking head,6zKM7u4_qj0,0,10,train
+249,shaking head,72wjBYM21-o,7,17,train
+250,scrubbing face,B6Ek3oMLMN8,97,107,train
+251,scrubbing face,BCRlGFGUXc8,33,43,train
+252,scrubbing face,BRMJxr2sGps,62,72,train
+253,scrubbing face,BXIQu8A922Y,15,25,train
+254,scrubbing face,Bc11eHPU1sc,89,99,train
+255,scrubbing face,BxJ44Rg97mw,101,111,train
+256,scrubbing face,BymijuWxv-E,32,42,train
+257,scrubbing face,C-Q6PO6BSkA,502,512,train
+258,scrubbing face,CC9LD2YZG90,52,62,train
+259,scrubbing face,CCfQIjaWlhI,141,151,train
+260,putting in contact lenses,97zf6D-5hJk,5,15,train
+261,putting in contact lenses,9BQvPhMzczk,255,265,train
+262,putting in contact lenses,9VjsSm__400,44,54,train
+263,putting in contact lenses,9f6fa0XtwB8,11,21,train
+264,putting in contact lenses,9jG5Bc06fqc,350,360,train
+265,putting in contact lenses,9m2tQEhYq6w,39,49,train
+266,putting in contact lenses,9n8RisvFLv8,0,10,train
+267,putting in contact lenses,9vQs4aP0AIM,64,74,train
+268,putting in contact lenses,AAnYPAH9z7A,37,47,train
+269,putting in contact lenses,APWM_i5EukE,327,337,train
+270,putting on eyeliner,DfxY0NoHFHE,46,56,train
+271,putting on eyeliner,DnbMZfUGdVQ,266,276,train
+272,putting on eyeliner,E0Bzg-tt634,167,177,train
+273,putting on eyeliner,E10PSFsHhmI,103,113,train
+274,putting on eyeliner,EFPCSZUqSXM,12,22,train
+275,putting on eyeliner,EfqFSfSZ8Ps,396,406,train
+276,putting on eyeliner,ElBJ7Nk1F-A,174,184,train
+277,putting on eyeliner,ElhD87Ed3AY,22,32,train
+278,putting on eyeliner,EnOOPtAjVwk,107,117,train
+279,putting on eyeliner,FR8IZOlcqKo,44,54,train
+280,putting on foundation,Cp4PlAwv0jQ,33,43,train
+281,putting on foundation,CwZhqFH2Cyw,51,61,train
+282,putting on foundation,D-2qlBgnhLw,122,132,train
+283,putting on foundation,D9S37mk8G_U,64,74,train
+284,putting on foundation,DHqz0Tjv1_o,110,120,train
+285,putting on foundation,DilLk7rMXMw,218,228,train
+286,putting on foundation,DujefVJKhxg,5,15,train
+287,putting on foundation,E0d7owcv75g,179,189,train
+288,putting on foundation,E1GOlYPduvE,136,146,train
+289,putting on foundation,E5RKIArDSqY,266,276,train
+290,putting on lipstick,80gP00Rpv7o,74,84,train
+291,putting on lipstick,8BevAe9GYec,0,10,train
+292,putting on lipstick,8KBDeWbJQVQ,40,50,train
+293,putting on lipstick,8Yaram1jgaQ,5,15,train
+294,putting on lipstick,8b_C27Qe2Vo,48,58,train
+295,putting on lipstick,8epFbt37Eks,1,11,train
+296,putting on lipstick,8gyaj37yrJk,264,274,train
+297,putting on lipstick,8lyTuVJQxrI,32,42,train
+298,putting on lipstick,8vUoEd582Mo,0,10,train
+299,putting on lipstick,9-YIRvLCJIQ,16,26,train
+300,putting on mascara,A6NOI4nZ8Cw,0,10,train
+301,putting on mascara,AWRJExswrOE,244,254,train
+302,putting on mascara,BA42hVcHIWI,93,103,train
+303,putting on mascara,BC0NJ1C7mzI,113,123,train
+304,putting on mascara,BDDurPltNVI,89,99,train
+305,putting on mascara,BDYDMZ-i_os,10,20,train
+306,putting on mascara,BgG9P_yJPU0,0,10,train
+307,putting on mascara,C3WEJob-eV0,54,64,train
+308,putting on mascara,C6EKuU_Gg0U,76,86,train
+309,putting on mascara,CClDrggrxx4,41,51,train
+310,brushing hair,8dzCngZMSqc,1,11,train
+311,brushing hair,8iz-GKkC7Fk,152,162,train
+312,brushing hair,8lBg7-UXk-0,532,542,train
+313,brushing hair,8o4ZkmPPVGw,18,28,train
+314,brushing hair,8u6FkWxsGp4,145,155,train
+315,brushing hair,8xmR48wQr8s,0,10,train
+316,brushing hair,90ftgga_WeU,34,44,train
+317,brushing hair,98R5HT4LUlE,36,46,train
+318,brushing hair,99qx_mjI11Q,38,48,train
+319,brushing hair,9_jz9xKzZNw,338,348,train
+320,brushing teeth,7Nde3eOPMrc,23,33,train
+321,brushing teeth,7TOI9aEhGSA,4,14,train
+322,brushing teeth,7TuNlayxFWY,20,30,train
+323,brushing teeth,7dMgFTqaMxU,59,69,train
+324,brushing teeth,7dzRgO3R0qw,8,18,train
+325,brushing teeth,7lJSPLb8Xq8,15,25,train
+326,brushing teeth,7ljmI0fHMQ0,120,130,train
+327,brushing teeth,7r2AG90OJa8,185,195,train
+328,brushing teeth,7tXO2EGeiQg,7,17,train
+329,brushing teeth,7ueMzClEmyU,29,39,train
+330,braiding hair,6VpgL6Kfjs4,171,181,train
+331,braiding hair,6WYKdvIBsFQ,227,237,train
+332,braiding hair,6YaxWjX3r7w,4,14,train
+333,braiding hair,6ZVaChMwMtE,4,14,train
+334,braiding hair,6bOHDvyufwE,83,93,train
+335,braiding hair,6cyKR6pRvII,48,58,train
+336,braiding hair,6jB5zms76dA,10,20,train
+337,braiding hair,6jNNPaGeALs,183,193,train
+338,braiding hair,6mqcox-NTs8,187,197,train
+339,braiding hair,6rJSEaarJH4,328,338,train
+340,combing hair,EZXJaDn4V7s,28,38,train
+341,combing hair,EqOuZWTVK8A,72,82,train
+342,combing hair,EtPJhuoW31Y,2,12,train
+343,combing hair,F6Ul4INfXOY,2,12,train
+344,combing hair,F9I6yv3uD8M,2,12,train
+345,combing hair,FEB51fKuF4k,1,11,train
+346,combing hair,FIODivqZqiA,152,162,train
+347,combing hair,FNiWjMg-G9M,2,12,train
+348,combing hair,FRubCyuzMrQ,21,31,train
+349,combing hair,FSoGdyUkUiU,70,80,train
+350,dyeing eyebrows,COIUXf-agoc,6,16,train
+351,dyeing eyebrows,CReF89EE-X4,133,143,train
+352,dyeing eyebrows,Cq3jDwsUJFM,41,51,train
+353,dyeing eyebrows,D2-ncH_NMyM,0,10,train
+354,dyeing eyebrows,DC95cfRPKsE,838,848,train
+355,dyeing eyebrows,DDruuStRdcw,212,222,train
+356,dyeing eyebrows,DHyc7840oDs,11,21,train
+357,dyeing eyebrows,DQbWJG7_mNQ,158,168,train
+358,dyeing eyebrows,DR4pw94UTrI,12,22,train
+359,dyeing eyebrows,DRVDSgdBM6M,0,10,train
+360,dyeing hair,IMZT_OyeKIc,155,165,train
+361,dyeing hair,IOSGGUyIcVk,50,60,train
+362,dyeing hair,IWA-n3lV6UM,270,280,train
+363,dyeing hair,IaLLEwsH5ec,77,87,train
+364,dyeing hair,IaMfd-M7myo,15,25,train
+365,dyeing hair,IbZlthDob5E,353,363,train
+366,dyeing hair,Ii2cSPve59k,35,45,train
+367,dyeing hair,IjHDucjI6NQ,89,99,train
+368,dyeing hair,IqHSyTtXWRg,155,165,train
+369,dyeing hair,IuOQSHCX5GE,31,41,train
