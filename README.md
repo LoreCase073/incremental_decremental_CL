@@ -1,4 +1,5 @@
-# data_incdec_framework
+# Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition
+![](images/data_incdec_framework.png)
 
 Repository containing the code to reproduce the experimental results for the **Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition** paper.
 
@@ -105,7 +106,7 @@ python -u ./data_incdec_framework/cl_framework/main.py \
 
 All the hyperparameters for running the experiments are explained briefly in the next section. Also, we will provide an exact example of the hyperparameters to replicate each of the experiments, in `experiments.sh`.
 
-# Command-line arguments (TODO: ricontrollare)
+# Command-line arguments
 * `-op`: folder path where results are stored.
 * `--approach`: Type of machine learning approach to be followed. Choices are: ["incdec", 'incdec_lwf', 'incdec_fd', 'incdec_ewc']. (default=incdec)
 * `--pipeline`: Type of pipeline to be followed in the incdec type approaches. ["baseline","decremental","incremental_decremental","joint_incremental"]. (default=baseline)
