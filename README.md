@@ -4,6 +4,11 @@
 This repository contains the code to reproduce the experimental results for the paper *Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition*, presented at the **Trust What You LearN workshop (ECCV 2024)**. 
 The link to the paper will be available soon. 
 
+
+## Abstract 
+With the explosive growth in training and deployment of deep models in recent years, interest in techniques to manage data and model lifecycles is also growing significantly. Techniques like Incremental and Continual Learning offer the promise of updating models without the requirement to retain and use training data in perpetuity, which in turn offers significant advantages in terms of training efficiency and privacy preservation. The standard class-, task-, and domain-incremental learning scenarios considered in the literature, however, do not always accurately reflect the needs of real-world applications in which data availability is much more fluid, with new data arriving and existing data disappearing due to privacy regulations. In this work, we address the problem of continuously updating a video recognition model on a data collection that undergoes distribution shifts, a challenge that it is underrepresented in the Continual Learning literature. We assume data availability is governed by removal and arrival policies applied to a data collection over time, which in turn induce variations in its features. We perform an extensive experimental evaluation based on new incremental and decremental scenarios on a subset of the Kinetics-700 dataset, where we introduce a category-latent subcategory labeling of samples which helps simulate data removal in the collection.
+
+
 # Setting up the environment
 
 To run the code you must create an Anaconda environment from the `environment.yml` file and activate it:
