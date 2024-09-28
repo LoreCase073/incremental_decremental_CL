@@ -1,7 +1,7 @@
 # Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition (TWYN@ECCV2024)
 ![](images/data_incdec_framework.png)
 
-This repository containis the code to reproduce the experimental results for the paper *Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition*, presented at the Trust What You LearN workshop (ECCV 2024). 
+This repository containis the code to reproduce the experimental results for the paper *Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition*, presented at the **Trust What You LearN workshop (ECCV 2024)**. 
 The link to the paper will be available soon. 
 
 # Setting up the environment
