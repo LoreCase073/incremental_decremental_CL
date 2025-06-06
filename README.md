@@ -1,12 +1,40 @@
 # Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition (TWYN@ECCV2024)
 ![](images/data_incdec_framework.png)
 
-This repository contains the code to reproduce the experimental results for the paper *Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition*, presented at the **Trust What You LearN workshop (ECCV 2024)**. 
-The link to the paper will be available soon. 
+This repository contains the official code to reproduce the experimental results for the paper *Incremental and Decremental Continual Learning for Privacy-preserving Video Recognition*, presented at the **Trust What You LearN workshop (ECCV 2024)**. 
+The paper is available  [here](https://link.springer.com/chapter/10.1007/978-3-031-92648-8_20).
+
+## Authors
+ - [**Caselli Lorenzo**](https://www.micc.unifi.it/people/lorenzo-caselli/)
+ - [**Simone Magistri**](https://scholar.google.com/citations?user=fAS993EAAAAJ&hl=it)
+ - [**Tommaso Bianconcini**](https://scholar.google.com/citations?user=fpRUQh8AAAAJ&hl=en)
+ - [**Andrea Benericetti**](https://scholar.google.com/citations?user=XoVq0n0AAAAJ&hl=it)
+ - [**Douglas Coimbra de Andrade**](https://scholar.google.com/citations?user=k8to3vkAAAAJ&hl=en)
+ - [**Andrew D. Bagdanov**](https://scholar.google.com/citations?hl=en&user=_Fk4YUcAAAAJ)
 
 
 ## Abstract 
 With the explosive growth in training and deployment of deep models in recent years, interest in techniques to manage data and model lifecycles is also growing significantly. Techniques like Incremental and Continual Learning offer the promise of updating models without the requirement to retain and use training data in perpetuity, which in turn offers significant advantages in terms of training efficiency and privacy preservation. The standard class-, task-, and domain-incremental learning scenarios considered in the literature, however, do not always accurately reflect the needs of real-world applications in which data availability is much more fluid, with new data arriving and existing data disappearing due to privacy regulations. In this work, we address the problem of continuously updating a video recognition model on a data collection that undergoes distribution shifts, a challenge that it is underrepresented in the Continual Learning literature. We assume data availability is governed by removal and arrival policies applied to a data collection over time, which in turn induce variations in its features. We perform an extensive experimental evaluation based on new incremental and decremental scenarios on a subset of the Kinetics-700 dataset, where we introduce a category-latent subcategory labeling of samples which helps simulate data removal in the collection.
+
+## Citing
+If you use this repository in your research, please cite the following:
+```
+@InProceedings{10.1007/978-3-031-92648-8_20, author="Caselli, Lorenzo and Magistri, Simone and
+Bianconcini, Tommaso and Benericetti, Andrea and de Andrade, Douglas Coimbra and Bagdanov, Andrew D.",
+editor="Del Bue, Alessio
+and Canton, Cristian
+and Pont-Tuset, Jordi
+and Tommasi, Tatiana",
+title="Incremental and Decremental Continual Learning for Privacy-Preserving Video Recognition",
+booktitle="Computer Vision -- ECCV 2024 Workshops",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="333--350",
+abstract="",
+isbn="978-3-031-92648-8"
+}
+```
 
 
 # Setting up the environment
