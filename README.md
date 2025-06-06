@@ -5,7 +5,7 @@ This repository contains the official code to reproduce the experimental results
 The paper is available  [here](https://link.springer.com/chapter/10.1007/978-3-031-92648-8_20).
 
 ## Authors
- - [**Caselli Lorenzo**](https://www.micc.unifi.it/people/lorenzo-caselli/)
+ - [**Lorenzo Caselli**](https://www.micc.unifi.it/people/lorenzo-caselli/)
  - [**Simone Magistri**](https://scholar.google.com/citations?user=fAS993EAAAAJ&hl=it)
  - [**Tommaso Bianconcini**](https://scholar.google.com/citations?user=fpRUQh8AAAAJ&hl=en)
  - [**Andrea Benericetti**](https://scholar.google.com/citations?user=XoVq0n0AAAAJ&hl=it)
